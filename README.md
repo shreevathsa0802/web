@@ -14,7 +14,7 @@
 
     <!-- Image 2 -->
     <h2>Image 2</h2>
-    <img src="https://example.com/photo2.jpg" alt="Description of Photo 2" width="300" height="200">
+    <img src="https://t4.ftcdn.net/jpg/01/92/39/73/360_F_192397381_wanJUPYfoudOeAUC2a6gACwBTvIllRPY.jpg" width="300" height="200">
 
     <!-- Image 3 -->
     <h2>Image 3</h2>
